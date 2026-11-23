@@ -58,8 +58,6 @@ This creates a little difficulty before I can access those apps. That small extr
 
 I think this approach is useful because instead of depending completely on self-control, we can change our surroundings to make unwanted habits less convenient.
 
-# Reflection
-
 ### Question 8. Pick one habit that you would like to do more of. What steps can you take to make the cue obvious, the habit attractive or easy, and the response satisfying?
 
 One habit I would like to improve is daily coding practice. Sometimes I plan to solve coding problems, but I end up postponing them because of distractions or a lack of motivation.
